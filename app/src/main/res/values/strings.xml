@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CodiceFiscale</string>
+    <string name="CodiceFiscale_textviewValue">Codice Fiscale</string>
+    <string name="name_EditTextValue">Inserisci il tuo nome</string>
+    <string name="surname_EditTextValue">Inserisci il tuo cognome</string>
+    <string name="DateOfBirth_TextViewValue">Inserisci la tua data di nascita</string>
+    <string name="Gender_Male_RadioButtonValue">Sesso Maschile</string>
+    <string name="Gender_Female_RadioButtonValue">Sesso Femminile</string>
+    <string name="PlaceOfBirth_EditTextValue">Inserisci il tuo luogo di nascita</string>
+    <string name="Gender_TextViewValue">Inserisci il tuo sesso</string>
+    <string name="submit_btnValue">Calcola</string>
+    <string name="Codice_Fiscale_title_value">Codice Fiscale</string>
+    <string name="data_textview_title_value">I tuoi dati</string>
+    <string name="Name_textview_title_value">Nome</string>
+    <string name="Surname_textview_title_value">Cognome</string>
+    <string name="PlaceOfBirth_textview_title_value">Luogo di nascita</string>
+    <string name="DateOfBirth_textview_title_value">Data di nascita</string>
+    <string name="gender_textview_title_value">Sesso</string>
+    <string name="Home_btn_value">Torna indietro</string>
+    <string name="Copy_btn_value">Copia</string>
+</resources>
